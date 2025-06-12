@@ -109,7 +109,7 @@ function Sampada() {
               {/* Phone */}
               <li className="flex items-center space-x-3">
                 <a
-                  href="tel:+91XXXXXXXXXX"
+                  href="tel:+918309109557"
                   className="inline-flex items-center justify-center w-12 h-12 bg-blue-500 rounded-full hover:bg-blue-700 transition"
                   aria-label="Phone"
                 >
